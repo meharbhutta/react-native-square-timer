@@ -1,0 +1,54 @@
+{
+  "name": "react-native-square-timer",
+  "version": "0.1.0",
+  "description": "Square Timer component for React Native",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react-native-square",
+    "react-native-timer",
+    "react-native-square-timer",
+    "react native",
+    "react native square",
+    "react native timer",
+    "react native square timer",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "timer",
+    "square"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meharbhutta/react-native-square-timer.git"
+  },
+  "author": "Muhammad Mehar <meharbhutta@gmail.com> (https://twitter.com/meharbhutta)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meharbhutta/react-native-square-timer/issues"
+  },
+  "homepage": "https://github.com/meharbhutta/react-native-square-timer#readme",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "babel-jest": "^24.7.1",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "prettier": "^1.16.4",
+    "typescript": "next"
+  }
+}
