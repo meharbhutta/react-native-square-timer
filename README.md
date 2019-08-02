@@ -18,7 +18,7 @@ Square Timer component for React Native
 
 | **IOS** | **Android** |
 | :---------------------------------- | :------------------------------------ |
-| ![](https://raw.githubusercontent.com/meharbhutta/react-native-linear-timer/master/example/screenshot-ios.gif) | ![](https://raw.githubusercontent.com/meharbhutta/react-native-linear-timer/master/example/screenshot-android.gif) |
+| ![](https://raw.githubusercontent.com/meharbhutta/react-native-square-timer/master/example/screenshot-ios.png) | ![](https://raw.githubusercontent.com/meharbhutta/react-native-square-timer/master/example/screenshot-android.png) |
 
 ## Getting Started
 
