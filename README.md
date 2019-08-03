@@ -10,7 +10,7 @@ Square Timer component for React Native
 
 ## NPM
 
-- stable release version: ![version](https://img.shields.io/badge/version-0.1.1-blue.svg?cacheSeconds=2592000)
+- stable release version: ![version](https://img.shields.io/badge/version-0.1.2-blue.svg?cacheSeconds=2592000)
 - package downloads: ![downloads](https://img.shields.io/badge/downloads-22%2Fweek-brightgreen.svg?cacheSeconds=2592000)
 - [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
@@ -18,7 +18,7 @@ Square Timer component for React Native
 
 | **IOS** | **Android** |
 | :---------------------------------- | :------------------------------------ |
-| ![](https://raw.githubusercontent.com/meharbhutta/react-native-square-timer/master/example/screenshot-ios.png) | ![](https://raw.githubusercontent.com/meharbhutta/react-native-square-timer/master/example/screenshot-android.png) |
+| ![](https://raw.githubusercontent.com/meharbhutta/react-native-square-timer/master/example/screenshot-ios.gif) | ![](https://raw.githubusercontent.com/meharbhutta/react-native-square-timer/master/example/screenshot-android.gif) |
 
 ## Getting Started
 
